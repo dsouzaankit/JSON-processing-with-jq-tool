@@ -1,6 +1,6 @@
 # JSON-processing-with-jq-tool
 
-Process JSON/JSON Lines using jq.
+Process JSON/JSON Lines using jq programming language.
 
 data.json contains a few hundred lines of data in json format. 
 Each line provides information about a different place of interest. 
